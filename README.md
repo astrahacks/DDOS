@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/astrahacks/DDOS/main/src/656660c3-32f2-4147-aceb-70966fb687b8.jpg."/>
+<img width="99.9%" src="https://raw.githubusercontent.com/astrahacks/DDOS/main/src/IMG_70966fb687b8.jpg"/> 
 
 
 
