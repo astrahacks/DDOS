@@ -1,8 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/astrahacks/DDOS/main/src/file:///C:/Users/astra/Videos/ASTRA-DDOS-ATTACK/Astra-DDos-main/Astra-DDos-main/src/656660c3-32f2-4147-aceb-70966fb687b8.jpg."/>
-
-
-
-
+<img width="99.9%" src="https://raw.githubusercontent.com/astrahacks/DDOS/main/src/656660c3-32f2-4147-aceb-70966fb687b8.jpg."/>
 
 
 
@@ -24,7 +20,7 @@
 * `apt install python3`
 * `git clone https://github.com/astrahacks/DDOS.git`
 
-#### Finished you have successfully downloaded Ultra-DDos now to launch!
+#### Finished you have successfully downloaded DDos now to launch!
 
 * `cd DDos`
 * `python2 ddos.py`
@@ -45,15 +41,6 @@ Package: 154 MB
 ```
 
 ------
-
-<br>
-<p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/Ultra-DDos/main/src/IMG_20210924_111547.jpg"/> 
- 
-</p>
-
-
-
 
 <br>
 <p align="center">
