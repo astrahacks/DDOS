@@ -1,7 +1,6 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/astrahacks/DDOS/main/src/IMG_70966fb687b8.jpg"/> 
 
-
-
+https://raw.githubusercontent.com/astrahacks/DDOS/main/src/IMG_70966fb687b8.jpg
 
 > DDos was created to destroy bad sites, this script is very powerful!
 
